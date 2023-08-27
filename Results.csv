@@ -1,0 +1,6 @@
+id,series_id,year,period,value,footnote_codes,original_file,data_type_code,data_type_text
+0,CEU5500000007,2016,M13,36.9,NULL,ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings.csv,1,ALL EMPLOYEES
+1,CEU5500000008,2016,M13,26.11,NULL,ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings.csv,1,ALL EMPLOYEES
+2,CEU5500000030,2016,M13,962.73,NULL,ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings.csv,1,ALL EMPLOYEES
+3,CEU5500000031,2016,M13,411.29,NULL,ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings.csv,1,ALL EMPLOYEES
+4,CEU5500000032,2016,M13,11.15,NULL,ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings.csv,1,ALL EMPLOYEES
